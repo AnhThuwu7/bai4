@@ -1,0 +1,18 @@
+#tieude{
+    font-size: 40px;
+    color: rgb(220, 68, 68);
+    
+}
+.link{
+    float: right;
+    color: green;
+}
+.box{
+    background-color: rgb(250, 233, 135);
+}
+.box1{
+    background-image: url(./bg/download-removebg-preview\ \(5\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+}
